@@ -1,6 +1,7 @@
 ### Olá, me chamo Diego Sousa 👋
 
-💻 Atualmente, cursando Desenvolvimento de Sistemas 
+🎓 Ténico em Desenvolvimento de Sistemas, pela Etec de Taboão da Serra
+💻 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na São Paulo Tech School (SpTech)
 
 <div>
   <a href="https://github.com/DiegoSousa-11">
